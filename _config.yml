@@ -59,12 +59,12 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  clientID:  115e620a79fa03b2b66e
-  clientSecret:  d5477138b43147a3dc9745a8da357f713a9d93f8
-  repository:  hfvast.github.io
-  owner:  weihai4099
-  admin:
-     - weihai4099
+  clientID: 115e620a79fa03b2b66e
+  clientSecret: d5477138b43147a3dc9745a8da357f713a9d93f8
+  repository: hfvast.github.io
+  owner: weihai4099
+  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+    - weihai4099
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
