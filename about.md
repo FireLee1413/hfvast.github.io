@@ -8,12 +8,12 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
-
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
-
+```java
+System.out.println("hello, world!");
+```
 ```javascript
 (() => console.log('hello, world!'))();
+```
+```bash
+echo "hello, world!"
 ```
