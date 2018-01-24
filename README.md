@@ -1,7 +1,7 @@
 # eap-user-guide
 
-支持响应式
+EAP Website:
 
-USED
-* [Jekyll](https://jekyllrb.com/)
-* [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+Visit => tianqi.name.
+
+Powered by [Jekyll](https://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
