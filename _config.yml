@@ -62,7 +62,7 @@ gitalk:
   clientID: 115e620a79fa03b2b66e
   clientSecret: d5477138b43147a3dc9745a8da357f713a9d93f8
   repository: hfvast.github.io
-  owner: weihai4099
+  owner: hfvast
   admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
     - weihai4099
 
