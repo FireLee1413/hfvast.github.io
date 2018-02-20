@@ -3,6 +3,10 @@
 .AppleDouble
 .LSOverride
 
+# add by weihai4099
+.idea/
+.vscode/
+
 
 
 # Thumbnails
@@ -184,3 +188,6 @@ Gemfile.lock
 _site/
 .sass-cache/
 .jekyll-metadata
+.idea/compiler.xml
+.idea/compiler.xml
+.idea/deployment.xml
