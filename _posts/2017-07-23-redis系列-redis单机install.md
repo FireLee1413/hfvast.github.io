@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2017-07-23 19:26
 title: redis系列--redis单机install
 ---
