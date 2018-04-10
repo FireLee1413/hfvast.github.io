@@ -91,7 +91,7 @@ root@q:~# find / -name "client.rb"
 ```
 
 显然第二个是目标 vi修改文件内容
-![这里写图片描述](<../images/redis/update redis ruby.png>)
+![这里写图片描述](</images/redis/update redis ruby.png>)
 
 把password那行修改为你设置的密码 注意带双引号
 继续
@@ -99,10 +99,10 @@ root@q:~# find / -name "client.rb"
 需要一个脚本 这个脚本在redis源码的src目录下
 启动命令
 `redis-trib.rb create --replicas 1 127.0.0.1:6381 127.0.0.1:6382 127.0.0.1:6383 127.0.0.1:6384 127.0.0.1:6385 127.0.0.1:6386` replicas  后面的1 代表每个主一个从 后面跟上6个实例的真实ip和端口号   ip要填写成客户端访问的ip(如果绑定多个ip的话)`
-![网上找的图](<../images/redis/20170723200334146.png>)
+![网上找的图](</images/redis/20170723200334146.png>)
 
 继续输入yes
 
-![这里写图片描述](<../images/redis/20170723200444015.png>)
+![这里写图片描述](</images/redis/20170723200444015.png>)
 
 至此redis 集群就已经安装完毕了
