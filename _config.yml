@@ -73,7 +73,7 @@ gitalk:
 leancloud:
    app_id:  s5dF3q1U73vAOhh0FpjHnTCj-gzGzoHsz
    app_key:  0TidMxJJC87w0l8snvSMeKVz
-  # app_class:  #LeanCloud App class
+   app_class:  test
 
 # mathjax: true
 
