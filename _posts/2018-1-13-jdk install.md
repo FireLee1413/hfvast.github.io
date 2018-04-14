@@ -1,6 +1,8 @@
 ﻿---
 layout: post
-title: 
+title: jdk环境变量
+keys: jdk环境变量
+tags: jdk
 ---
 
 ```bash

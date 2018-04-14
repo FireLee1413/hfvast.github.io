@@ -2,6 +2,8 @@
 layout: post
 date: 2017-07-23 19:26
 title: redis系列--redis单机install
+keys: redis系列--redis单机install
+tags: redis
 ---
 
 单机很简单 几个命令
