@@ -67,6 +67,15 @@
         </div>
       </li>
     {%- endif -%}
+    {%- if site.author.qq -%}
+      <li title="{{ __return | replace: '[NAME]', 'QQ' }}">
+        <div class="floating-action-round-button qq">
+          <a itemprop="sameAs" href="{{ site.author.qq }}" target="_blank">
+            <div class="icon">{%- include icon/social/qq.svg -%}</div>
+          </a>
+        </div>
+      </li>
+    {%- endif -%}
   </ul>
   {%- if site.author.email -%}
   {%- assign __locale = site.data.locale.EMAIL_ME -%}
