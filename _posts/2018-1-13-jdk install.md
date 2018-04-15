@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: jdk环境变量
-keys: jdk环境变量
+key: jdk环境变量
 tags: jdk
 ---
 

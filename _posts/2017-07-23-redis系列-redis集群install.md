@@ -2,7 +2,7 @@
 layout: post
 date: 2017-07-23 19:45
 title: redis系列--redis集群install
-keys: redis系列--redis集群install
+key: redis系列--redis集群install
 tags: redis
 ---
 生产环境单机肯定是不行
