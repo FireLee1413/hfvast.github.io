@@ -61,5 +61,14 @@ mvn deploy:deploy-file -DgroupId=org.opennebula.client -DartifactId=one-client -
 之后 其他的一些第三方的jar(eg: ojdbc aliyunsdk)都可以放到maven(nexus)进行维护,不需要每个项目组成员copy文件
 
 
+## 本地打包
+
+附上将jar打到本地仓库的**command**.
+
+```bash
+mvn install:install-file -DgroupId=org.opennebula.client -DartifactId=one-client -Dversion=2.0.1-SNAPSHOT -Dpackaging=jar -Dfile=E:\qqDownload\one-client-2.0.1-SNAPSHOT.jar
+```
+
+
 
  
