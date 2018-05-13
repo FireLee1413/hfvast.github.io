@@ -2,7 +2,7 @@
 layout: post
 title: 
 key: 向maven私库nexus上传包
-tags: [maven]
+tags: [maven,bash,eap]
 ---
 
 ## 前提条件
