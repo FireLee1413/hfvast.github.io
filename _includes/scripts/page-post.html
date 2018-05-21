@@ -32,7 +32,6 @@
 </script>
 
 {%- if site.leancloud.app_id and site.leancloud.app_key and site.leancloud.app_class -%}
-{%- include snippets/get-sources.html -%}
 {%- assign _sources = __return -%}
 <script>
   window.Lazyload.js(['{{ _sources.jquery }}', '{{ _sources.leancloud_js_sdk }}'], function() {
