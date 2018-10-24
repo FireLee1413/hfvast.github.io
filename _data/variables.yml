@@ -6,7 +6,7 @@ default:
     all:  /all.html
     rss:  /feed.xml
   lang: zh
-  sources: bootcss
+  sources: unpkg
   toc:
     selectors: 'h1,h2,h3'
 

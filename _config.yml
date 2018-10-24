@@ -25,6 +25,12 @@ nav_lists:
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
+  - titles:
+      en: Book
+      zh: 书籍
+      zh-Hans: 书籍
+      zh-Hant: 書籍
+    url: https://wx.ploughman.top
 
 # paths:
 #   base: /
