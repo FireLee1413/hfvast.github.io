@@ -27,10 +27,16 @@ nav_lists:
     url: /about.html
   - titles:
       en: Book
-      zh: 书籍
-      zh-Hans: 书籍
-      zh-Hant: 書籍
+      zh: 图书
+      zh-Hans: 图书
+      zh-Hant: 圖書
     url: https://wx.ploughman.top
+  - titles:
+      en: Contacts
+      zh: 通讯录
+      zh-Hans: 通讯录
+      zh-Hant: 通訊錄
+    url: https://wx.ploughman.top/person/index.jsp
 
 # paths:
 #   base: /
